@@ -1,0 +1,11 @@
+/*Navbar*/
+
+.navbar{
+	position:relative;
+	height:50px;
+	background-color:purple;
+	font-weight:500;
+	width:100%;
+	padding:0px;
+	margin:0 auto;
+}
