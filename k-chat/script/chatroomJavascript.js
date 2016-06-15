@@ -23,3 +23,17 @@ $(".message-body").keypress(function(e){
     submitMessage(); 
   }
 })
+
+
+
+
+
+
+//UserLogin
+
+var $username = $(".username").val();
+var $password = $(".password").val();
+
+if ($username === "juppy"){
+  alert("hello");
+};
