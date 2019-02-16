@@ -12,3 +12,6 @@ body {
 .greeting {
   text-align: center;
 }
+img {
+  height: 25%;
+}
